@@ -35,6 +35,7 @@
             }
 
             //PERPINDAHAAN PAGES WEBSITE
+                 echo"hello";
             switch ($content) {
                 case 'add':
                     require 'operasi/create.php';
